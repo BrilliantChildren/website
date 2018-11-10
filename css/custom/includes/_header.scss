@@ -1,6 +1,6 @@
 .navbar{
   box-shadow: 1px 1px 3px $primary;
-  opacity: 0.8;
+  opacity: 1;
   background: $white;
 
   .nav-item{
@@ -10,9 +10,17 @@
 }
 
 .nav-link {
-  color: $info !important;
+  color: $blue !important;
 
   &:hover {
-    color: $primary !important;
+    color: $red !important;
   }
+}
+
+.dropdown:hover > .dropdown-menu {
+    display: block;
+}
+.dropdown > .dropdown-toggle:active {
+    /*Without this, clicking will make it sticky*/
+    pointer-events: none;
 }
