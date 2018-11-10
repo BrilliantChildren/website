@@ -1,25 +1,9 @@
 ---
-author: amarjitmult
-date: 2018-06-23 22:31:20+00:00
-draft: false
 title: Home
-type: page
+type: default-car
 url: /
 ---
 
-[vc_row][vc_column width="2/3"][rev_slider alias="Home bottom slider"][/vc_column][vc_column width="1/3"][vc_column_text el_class="home-text-block1"]
-
-
-[Learn more about us and our programs.](http://brilliantchildren.net/programs/)
-
-
-[/vc_column_text][vc_column_text el_class="home-text-block1"]
-
-
-[Contact us for more information.](http://brilliantchildren.net/contact/)
-
-
-[/vc_column_text][/vc_column][/vc_row][vc_row height="small"][vc_column][vc_column_text]
 
 
 Brilliant Children Provides Your Child With The Opportunity To Discover Their Capacity And Become Better In Life
@@ -60,8 +44,6 @@ What makes us proud more than ever is the impact we’re creating in the lives o
 Parents have expressed that by attending our programs, their kids have developed better in behaviors, social habits, values, morals, and communication. These kids also perform better in their schools, have a better sense of responsibility, and are usually the ones who want to volunteer to solve problems. Parents also love that these children are properly taken care of by us, as we take it upon ourselves to provide them with all the nourishment they need to grow strong and healthy. Safety is also a major aspect of our concern as we ensure that every child remains safe and secured while they try to live and take part in all the activities they are meant to take part in. Brilliant Children offer excellent services that parents will always be proud of.
 
 
-[/vc_column_text][/vc_column][/vc_row][vc_row us_bg_image="363" us_bg_repeat="no-repeat" disable_element="yes"][vc_column][vc_column_text]
-
 
 ## AFTER SCHOOL IS THE PLACE WHERE:
 
@@ -76,4 +58,3 @@ Parents have expressed that by attending our programs, their kids have developed
  	  * There’s outdoor space for you to run, jump, play, and let loose after being indoors
  	  * There’s always plenty to do, friends to do it with, and adults who know just how special you are
 
-[/vc_column_text][us_btn text="Learn more about us" link="url:http%3A%2F%2Fbrilliantchildren.net%2Fabout%2F|||" style="outlined" color="secondary" align="center" icon="fa-info"][/vc_column][/vc_row]

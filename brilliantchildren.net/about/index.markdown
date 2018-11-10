@@ -7,7 +7,6 @@ type: page
 url: /about/
 ---
 
-[vc_row][vc_column][vc_column_text]
 
 
 [![](http://brilliantchildren.net/wp-content/uploads/2018/08/391A8526-300x200.jpg)
