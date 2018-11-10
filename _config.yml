@@ -14,5 +14,3 @@ sass:
 show_social_icons: true
 github_username: someGithubUser
 twitter_username: someTwitterUser
-
-theme: jekyll-theme-minimal
