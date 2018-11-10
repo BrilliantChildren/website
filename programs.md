@@ -1,20 +1,16 @@
 ---
-author: amarjitmult
-date: 2018-06-23 22:31:20+00:00
-draft: false
-title: PROGRAMS
-type: page
-url: /programs/
+layout: default-car
+paramlink: /programs
 ---
 
-[vc_row height="small"][vc_column][vc_column_text][![](http://brilliantchildren.net/wp-content/uploads/2018/08/391A8589.jpg)
-](http://brilliantchildren.net/wp-content/uploads/2018/08/Our-Programs-1.jpg)
+
+(http://brilliantchildren.net/wp-content/uploads/2018/08/Our-Programs-1.jpg)
 
 
 Help Your Children Learn The Social Skills They Need To Be Able To Survive In An Ever Changing World
 
 
-[/vc_column_text][us_separator][/vc_column][/vc_row][vc_row height="small"][vc_column width="1/3"][vc_custom_heading text="Kindergarten And TK After School" use_theme_fonts="yes"][vc_column_text]The Real Fun Begins After School As The Kids Learn To Make Friends, Get Creative, And Dispense Energy
+The Real Fun Begins After School As The Kids Learn To Make Friends, Get Creative, And Dispense Energy
 
 The Brilliant Children after-school program is designed for kindergarten and transitional kindergarten to help them have fun, learn from each other, and build their mental capacity. The kids here come right from school and join their peers for an evening of fun, laughter, activities, and friendship. The fun starts after school and ends at 6 pm or 8 pm when the parents are expected to come and pick them. The TK and kindergarten are perfect for your kids and their development.
 

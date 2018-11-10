@@ -1,10 +1,6 @@
 ---
-author: amarjitmult
-date: 2018-08-21 05:13:14+00:00
-draft: false
-title: Fee
-type: page
-url: /fee/
+layout: default-car
+paramlink: /fee
 ---
 
 Before and After School Tuition Fee

@@ -1,10 +1,6 @@
 ---
-author: amarjitmult
-date: 2018-07-31 13:08:35+00:00
-draft: false
-title: Safety And Disciplinary Policies
-type: page
-url: /safety-and-disciplinary-policies/
+layout: default-car
+paramlink: /safety
 ---
 
 We Take Safety And Discipline Issues Serious Because It’s Our Responsibility To Make Sure Every Child Is Safe And Happy
