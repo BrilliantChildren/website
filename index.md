@@ -2,6 +2,8 @@
 title: Home
 layout: default-car
 url: /
+image1: "/img/1.jpg"
+
 ---
 
 
