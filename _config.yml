@@ -1,9 +1,10 @@
 # Site settings
-title: Brilliant Children
+title: Before After School Daycare
 email: pinkisharma03@yahoo.com
 author:
-description:
-url:
+description: Before After School Day care in Fremont Niles area, close to Bart
+url: www.brilliantchildren.net
+logo: /img/logo.jpg
 
 # Build settings
 permalink: :title/
@@ -14,3 +15,5 @@ sass:
 show_social_icons: true
 github_username: someGithubUser
 twitter_username: someTwitterUser
+plugins:
+  - jekyll-seo-tag
