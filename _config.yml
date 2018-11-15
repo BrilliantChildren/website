@@ -1,5 +1,5 @@
 # Site settings
-title: Before After School Daycare
+title: Before and After School Daycare
 email: pinkisharma03@yahoo.com
 author:
 description: Before After School Day care in Fremont Niles area, close to Bart
@@ -17,3 +17,9 @@ github_username: someGithubUser
 twitter_username: someTwitterUser
 plugins:
   - jekyll-seo-tag
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      canonical_url: 'http://www.brilliantchildren.net'
